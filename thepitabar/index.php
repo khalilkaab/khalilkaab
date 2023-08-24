@@ -110,7 +110,7 @@
                             <div class="label-swiper h4 text-italic text-white" data-caption-animate="fadeInLeftSm" data-caption-delay="200"><span>Notre</span><span>Nouvelle</span></div>
                             <h1 class="text-italic text-white" data-caption-animate="fadeInRightSm" data-caption-delay="100">Pita</h1>
                           </div>
-                          <h3 class="text-primary-lighter offset-top-5" data-caption-animate="fadeInUpSmall" data-caption-delay="600">Viande Hachée</h3><a class="btn btn-burnt-sienna btn-md btn-shape-circle offset-top-20" href="#" data-caption-animate="fadeInUpSmall" data-caption-delay="800">VOIR LE MENU</a>
+                          <h3 class="text-primary-lighter offset-top-5" data-caption-animate="fadeInUpSmall" data-caption-delay="600">mil shake</h3><a class="btn btn-burnt-sienna btn-md btn-shape-circle offset-top-20" href="#" data-caption-animate="fadeInUpSmall" data-caption-delay="800">VOIR LE MENU</a>
                         </div>
                         <div class="col-sm-6 col-md-7 col-lg-8 text-lg-end veil reveal-sm-inline-block">
                           <div style="position:relative;z-index:2;">
